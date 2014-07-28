@@ -1,0 +1,6 @@
+name: HoloAPI
+author: Codebucket
+version: 1.3 Release
+main: de.codebucket.holoapi.HoloPlugin
+softdepend: [ProtocolLib]
+website: http://www.codebucket.de
